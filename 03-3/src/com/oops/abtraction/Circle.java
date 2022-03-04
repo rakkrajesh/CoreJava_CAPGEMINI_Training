@@ -1,7 +1,7 @@
 package com.oops.abtraction;
 
 public class Circle extends Shape {
-	private double radius = 1.0;
+	protected double radius = 1.0;
 	
 	public Circle (){
 		

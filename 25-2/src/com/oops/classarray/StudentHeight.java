@@ -2,7 +2,7 @@ package com.oops.classarray;
 
 import java.util.Scanner;
 
-public class StudentDetail {
+public class StudentHeight {
 	
 	private static int StdNo;
 	private static int sum =0;

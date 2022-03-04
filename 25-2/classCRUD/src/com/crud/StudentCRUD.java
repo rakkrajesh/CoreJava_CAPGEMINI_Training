@@ -1,4 +1,4 @@
-package com.crud;
+package src.com.crud;
 
 import java.text.ParseException;
 import java.util.Scanner;
